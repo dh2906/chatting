@@ -1,0 +1,7 @@
+C:\Users\bit-별9\source\repos\server1\server1\obj\Debug\server1.csprojAssemblyReference.cache
+C:\Users\bit-별9\source\repos\server1\server1\obj\Debug\server1.csproj.CoreCompileInputs.cache
+C:\Users\bit-별9\source\repos\server1\server1\bin\Debug\server1.exe.config
+C:\Users\bit-별9\source\repos\server1\server1\bin\Debug\server1.exe
+C:\Users\bit-별9\source\repos\server1\server1\bin\Debug\server1.pdb
+C:\Users\bit-별9\source\repos\server1\server1\obj\Debug\server1.exe
+C:\Users\bit-별9\source\repos\server1\server1\obj\Debug\server1.pdb
